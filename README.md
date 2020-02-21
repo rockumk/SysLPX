@@ -1,5 +1,5 @@
 # SysLPX
-Specialized Version of masc4ii's Sysex Live
+Specialized Version of masc4ii's Sysex Live  (https://github.com/masc4ii/SysexLive)
 
 
 Adds:
